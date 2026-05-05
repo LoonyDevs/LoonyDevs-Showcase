@@ -1,8 +1,8 @@
 # Pivot Sports Privacy Policy
 
-**Effective Date:** April 28, 2026
+**Effective Date:** May 5th, 2026
 
-Pivot Sports ("we", "our", or "us") values your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the Pivot Sports mobile and web applications.
+Pivot Sports, a product of LoonyDevs ("we", "our", or "us") values your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the Pivot Sports mobile and web applications.
 
 ---
 
