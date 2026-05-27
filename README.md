@@ -11,10 +11,10 @@ A collection of apps proudly built by the LoonyDevs team.
 A modern team management app for sports groups.  
 Create teams, manage events, track RSVPs, and keep discussions in one place.
 
-**Status**: ⚡️ Beta  
+**Status**: 🚀 Live  
 **Links**:
 - 🌐 [Visit Website](https://pivotsports.app)  
-- 📱 [Join the TestFlight](https://testflight.apple.com/join/W5dC28kr)  
+- 📱 [Download on IOS](https://apps.apple.com/us/app/pivot-sports/id6756797740)  
 - 🔒 GitHub Repository (Private)
 
 ---
