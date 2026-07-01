@@ -1,6 +1,6 @@
 # Pivot Sports Privacy Policy
 
-**Effective Date:** May 5th, 2026
+**Effective Date:** July 1st, 2026
 
 Pivot Sports, a product of LoonyDevs ("we", "our", or "us") values your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the Pivot Sports mobile and web applications.
 
@@ -24,7 +24,8 @@ We collect the following types of information:
 ### Device Information
 
 - Device tokens (for push notifications)
-- Basic app usage data
+- App version and operating system version
+- Basic analytics and app usage information
 
 ---
 
@@ -37,6 +38,7 @@ We use your information to:
 - Enable communication within teams
 - Send notifications (such as event reminders and updates)
 - Improve app performance and user experience
+- Understand how features are used to improve the app
 
 ---
 
@@ -75,7 +77,7 @@ You can manage your notification preferences within the app.
 
 We retain your data as long as your account is active.
 
-If you leave a team or delete your account, some information may remain where necessary (for example, messages for team continuity).
+If you leave a team or request account deletion, some information (such as messages or discussion posts) may remain where necessary to preserve team history and conversations.
 
 ---
 
@@ -85,13 +87,17 @@ You may:
 
 - Update your profile information
 - Leave teams
-- Request account deletion by contacting us
+- Request account deletion through the app or by contacting us
 
 ---
 
 ## 8. Children's Privacy
 
-Pivot Sports is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that such information has been collected, we will take steps to delete it.
+Pivot Sports is designed for recreational sports teams and general audiences. The app includes user-generated content such as discussions, comments, and team communication.
+
+We do not knowingly collect personal information from children in violation of applicable law. If we become aware that we have collected personal information from a child where parental consent is required by law, we will take reasonable steps to delete that information.
+
+Parents or legal guardians who believe their child has provided personal information may contact us using the information below.
 
 ---
 
@@ -103,6 +109,6 @@ We may update this Privacy Policy from time to time. Updates will be posted with
 
 ## 10. Contact
 
-If you have any questions, please contact us:
+If you have questions about this Privacy Policy or how your information is handled, please contact us:
 
 **Email:** LoonyDevs@gmail.com
